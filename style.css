@@ -1,0 +1,12 @@
+h1, p {
+  font-family: lato;
+  color:white;
+
+}
+#btn1{
+  color:blue;
+  background: grey;
+}
+*{
+background: black;
+}
